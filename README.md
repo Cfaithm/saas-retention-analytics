@@ -10,6 +10,18 @@ Key findings:
 
 This analysis demonstrates how data can be used to identify at-risk customers, quantify revenue risk, and guide retention strategy.
 
+## Business Impact
+
+Customer churn directly affects recurring revenue and long-term growth in subscription businesses.  
+In this analysis, approximately 43% of customers meet the financial churn definition, representing a significant revenue risk.
+
+Identifying silent churn customers (those who continue to pay but are inactive) allows Customer Success and Product teams to:
+- Trigger re-engagement campaigns
+- Improve onboarding and feature adoption
+- Reduce long-term revenue loss
+
+This type of analysis helps organizations prioritize retention strategies and allocate resources effectively.
+
 
 ## Client Background
 A subscription-based SaaS company wants to better understand customer churn and retention patterns. Leadership is concerned about declining retention and wants to identify the key drivers of churn and opportunities to improve customer engagement.
