@@ -1,4 +1,15 @@
 # SaaS Retention Analytics
+## Executive Summary
+
+This project analyzes customer churn and retention for a subscription-based SaaS company using Python. A customer-level feature table was built by combining transaction, subscription, and activity data. 
+
+Key findings:
+- Financial churn is approximately 43% of customers.
+- Churn rates are similar across plan tiers, suggesting retention challenges are driven more by engagement than pricing.
+- Silent churn (paying but inactive customers) represents a significant retention risk and an opportunity for re-engagement campaigns.
+
+This analysis demonstrates how data can be used to identify at-risk customers, quantify revenue risk, and guide retention strategy.
+
 
 ## Client Background
 A subscription-based SaaS company wants to better understand customer churn and retention patterns. Leadership is concerned about declining retention and wants to identify the key drivers of churn and opportunities to improve customer engagement.
@@ -56,6 +67,10 @@ Customer is the central entity used to build a customer-level feature table.
 
 ### Churn by Plan
 Churn rates are similar across Basic, Standard, and Premium tiers, indicating retention challenges are likely driven by engagement or product value rather than pricing alone.
+## Sample Visualization
+
+![Financial Churn by Plan](churn_by_plan.png)
+
 
 ### Cohort Analysis
 Financial churn remains relatively stable across signup cohorts, suggesting onboarding quality is consistent but overall retention requires improvement.
