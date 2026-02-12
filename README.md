@@ -79,6 +79,3 @@ Financial churn remains relatively stable across signup cohorts, suggesting onbo
 A large portion of customers continue to pay but are inactive, indicating a strong opportunity for re-engagement campaigns.
 
 ---
-
-## Project Structure
-
